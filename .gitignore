@@ -1,9 +1,11 @@
-eugene-android/*.iml
-eugene-android/.gradle
-eugene-android/local.properties
-eugene-android/.idea/workspace.xml
-eugene-android/.idea/libraries
-eugene-android/.DS_Store
-eugene-android/build
-eugene-android/captures
-eugene-android/.externalNativeBuild
+# cache
+local.properties
+*.iml
+.gradle
+.DS_Store
+.externalNativeBuild
+.idea/
+
+#build code
+build/
+captures/
